@@ -1,2 +1,2 @@
 # VQA-CI
-Our code will be available soon.
+The source code is coming soon.
